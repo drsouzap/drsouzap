@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/patricia-regina-soares-de-souza-2b7a7042/](https://www.linkedin.com/in/patricia-regina-soares-de-souza-2b7a7042/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/https://www.linkedin.com/in/drsouzap/](https://https://www.linkedin.com/in/drsouzap/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
