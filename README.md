@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 <h3 align="center">A doctor in Immunopharmacology looking to become a Data Scientist</h3>
 
