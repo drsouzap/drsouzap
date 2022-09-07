@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Patricia</h1>
 <h3 align="center">A doctor in Immunopharmacology looking to become a Data Scientist</h3>
 
-- 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
+- 🔭 I’m currently working on [Breast cancer](https://github.com/drsouzap/breast_cancer)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/https://www.linkedin.com/in/drsouzap/](https://https://www.linkedin.com/in/drsouzap/)
 
